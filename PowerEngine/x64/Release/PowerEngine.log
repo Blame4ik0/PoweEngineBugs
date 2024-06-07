@@ -1,0 +1,14 @@
+﻿  Mesh.cpp
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Mesh.cpp(2,1): warning C4005: AI_MATKEY_TEXBLEND: изменение макроопределения
+  C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\EXTRAS\Include\assimp\material.h(1226,1):
+  см. предыдущее определение "AI_MATKEY_TEXBLEND"
+  
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Mesh.cpp(10,83): warning C4267: аргумент: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Mesh.cpp(13,72): warning C4267: аргумент: преобразование из "size_t" в "UINT"; возможна потеря данных
+     Создается библиотека C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\x64\Release\PowerEngine.lib и объект C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\x64\Release\PowerEngine.exp
+  Создание кода
+  6 of 2689 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PowerEngine.vcxproj -> C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\x64\Release\PowerEngine.exe

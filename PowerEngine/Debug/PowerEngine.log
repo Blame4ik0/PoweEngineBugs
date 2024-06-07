@@ -1,0 +1,5 @@
+﻿  Graphics.cpp
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(198,23): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(199,24): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(348,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PowerEngine.vcxproj -> C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Debug\PowerEngine.exe

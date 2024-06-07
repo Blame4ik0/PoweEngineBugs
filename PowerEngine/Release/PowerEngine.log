@@ -1,0 +1,30 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Graphics.cpp
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(213,23): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(214,24): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Graphics\Graphics.cpp(363,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PowerEngine.cpp
+C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\PowerEngine\Engine\PowerEngine.cpp(23,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  RenderWindow.cpp
+  Source.cpp
+  WindowContainer.cpp
+     Создается библиотека C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\PowerEngine.lib и объект C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\PowerEngine.exp
+  Создание кода
+  1205 of 2076 functions (58.0%) were compiled, the rest were copied from previous compilation.
+    1198 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+DirectXTK.lib(BufferHelpers.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(BufferHelpers.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(CommonStates.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(BinaryReader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(pch.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(pch.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(SpriteBatch.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(SpriteFont.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(VertexTypes.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: "" PDB не найден с "DirectXTK.lib(WICTextureLoader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  PowerEngine.vcxproj -> C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\PowerEngine.exe

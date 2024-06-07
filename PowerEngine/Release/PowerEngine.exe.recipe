@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\PowerEngine.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\pixelshader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Lessons\PowerEngine(alpha 0.0.1)\D3D11\Youtube video guide\PowerEngine alpha 0.0.1 (DX11 version)\Release\vertexshader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
